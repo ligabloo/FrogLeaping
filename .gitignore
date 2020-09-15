@@ -1,6 +1,6 @@
 # Project-specific ignores
 .history
-export/*
+exports/*
 
 # Godot-specific ignores
 .import/
